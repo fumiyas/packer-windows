@@ -71,11 +71,11 @@
             <SetupUILanguage>
                 <UILanguage>en-US</UILanguage>
             </SetupUILanguage>
-            <InputLocale>en-US</InputLocale>
-            <SystemLocale>en-US</SystemLocale>
-            <UILanguage>en-US</UILanguage>
+            <InputLocale>0411:E0010411</InputLocale>
+            <SystemLocale>ja-JP</SystemLocale>
+            <UILanguage>ja-JP</UILanguage>
             <UILanguageFallback>en-US</UILanguageFallback>
-            <UserLocale>en-US</UserLocale>
+            <UserLocale>ja-JP</UserLocale>
         </component>
     </settings>
     <settings pass="offlineServicing">
@@ -289,7 +289,7 @@
             </OEMInformation>
             <!-- Rename computer here. -->
             <ComputerName>vagrant-10</ComputerName>
-            <TimeZone>Pacific Standard Time</TimeZone>
+            <TimeZone>Tokyo Standard Time</TimeZone>
             <RegisteredOwner/>
         </component>
         <component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Security-SPP-UX" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
